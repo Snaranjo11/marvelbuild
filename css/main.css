@@ -57,10 +57,12 @@ header {
 
 .characters li p {
     text-decoration: none;
+    text-align: center;
 }
 
 article, #instructions {
     padding: 20px;
+    text-align: center;
 }
 
 article h3, #instructions h3 {
